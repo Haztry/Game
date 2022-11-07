@@ -1,2 +1,2 @@
 # Game
-Juego de la clase Graficaci[on
+Juego de la clase Graficación
